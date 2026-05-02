@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMART-IB-ASSIST</string>
+    <string name="private_version">f9f0fd4a5b6cd0c844d30f54b3c81d7d5d176d15</string>
+    <string name="presplash_color">#000000</string>
+    <string name="urlScheme">kivy</string>
+</resources>
