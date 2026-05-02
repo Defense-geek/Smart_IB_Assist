@@ -2,3 +2,7 @@
 venv/
 __pycache__/
 *.pyc
+.buildozer/
+venv/
+__pycache__/
+bin/
