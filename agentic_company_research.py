@@ -9,8 +9,8 @@ import time
 # CONFIG
 # =========================================================
 
-PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY", "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")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyA5lN6PK-7I9DfKMgyvawKLIgOZAWZ-qjQ")
+PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY", "")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 PERPLEXITY_ENDPOINT = "https://api.perplexity.ai/chat/completions"
 GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent"
